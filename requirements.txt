@@ -1,0 +1,19 @@
+Terminal :
+
+pip install tensorflow==2.3
+pip install numpy
+pip install tkinter
+pip install gtts
+pip install pandas
+pip install pickle
+
+
+Code :
+
+# In seperate file
+import nltk
+nltk.download("punkt")
+nltk.download("wordnet")
+
+##############################
+
